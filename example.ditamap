@@ -1,1 +1,9 @@
-あとで書く
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved. -->
+
+<map>
+  <title>DITA minimum example</title>
+  <topicref href="task_example.xml" type="task"/>
+</map>
