@@ -6,4 +6,5 @@
 <map>
   <title>DITA minimum example</title>
   <topicref href="task_example.xml" type="task"/>
+  <topicref href="task_example2.xml" type="task"/>
 </map>
