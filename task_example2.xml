@@ -21,7 +21,10 @@
         <cmd>きばる</cmd>
       </step>
       <step>
-        <cmd>ふく、ながす、でる</cmd>
+        <cmd>ふく</cmd>
+      </step>
+      <step>
+        <cmd>ながす、でる</cmd>
       </step>
     </steps>
   </taskbody>
