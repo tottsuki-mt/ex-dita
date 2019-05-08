@@ -7,9 +7,10 @@ env:
   - DITA_OT_VERSION=3.3.1
 before_install:
   - chmod +x .travis/install.sh
+  - chmod +x .travis/publish.sh
 install:
 - ".travis/install.sh"
 script:
-- ""
+- ".travis/publish.sh"
 after_success:
 - ""
