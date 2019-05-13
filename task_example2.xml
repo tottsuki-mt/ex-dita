@@ -4,27 +4,27 @@
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved. -->
 
 <task id="unk" xml:lang="en-us">
-  <title>Unk</title>
-  <shortdesc>うんこ</shortdesc>
+  <title>テキトウに書いてみる</title>
+  <shortdesc>適当</shortdesc>
   <taskbody>
     <context>
-      <p>うんこうんこうんこ</p></context>
+      <p>何かの手順的な...</p></context>
     <steps>
-      <stepsection>うんこ</stepsection>
+      <stepsection>ステップセクション？</stepsection>
       <step>
-        <cmd>トイレに入る</cmd>
+        <cmd>あーして</cmd>
       </step>
       <step>
-        <cmd>便座に座る</cmd>
+        <cmd>こーして</cmd>
       </step>
       <step>
-        <cmd>きばる</cmd>
+        <cmd>こーやって</cmd>
       </step>
       <step>
-        <cmd>ふく</cmd>
+        <cmd>こう</cmd>
       </step>
       <step>
-        <cmd>ながす、でる</cmd>
+        <cmd>そして、こう</cmd>
       </step>
     </steps>
   </taskbody>
