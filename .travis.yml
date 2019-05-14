@@ -8,6 +8,10 @@ env:
 before_install:
   - chmod +x .travis/install.sh
   - chmod +x .travis/publish.sh
+addons:
+  apt:
+    packages:
+      - libxml2-utils
 install:
 - ".travis/install.sh"
 script:
