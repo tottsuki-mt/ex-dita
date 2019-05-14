@@ -15,7 +15,7 @@ addons:
 install:
 - ".travis/install.sh"
 script:
-- "xmllint --version"
+- "xmllint --schema .schema/sample.sch task_example*.xml"
 - ".travis/publish.sh"
 after_success:
 - ""
