@@ -5,3 +5,4 @@
 curl -L https://github.com/dita-ot/dita-ot/releases/download/$DITA_OT_VERSION/dita-ot-$DITA_OT_VERSION.zip -o dita-ot-$DITA_OT_VERSION.zip
 unzip dita-ot-$DITA_OT_VERSION.zip
 export DITA_HOME=$PWD/dita-ot-$DITA_OT_VERSION
+export XML_CATALOG_FILES=$PWD/dita-ot-$DITA_OT_VERSION/plugins/org.dita.base/catalog-dita.xml
