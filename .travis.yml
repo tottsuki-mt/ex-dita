@@ -15,6 +15,7 @@ addons:
 install:
 - ".travis/install.sh"
 script:
+- "xmllint --version"
 - ".travis/publish.sh"
 after_success:
 - ""
