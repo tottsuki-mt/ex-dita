@@ -15,7 +15,7 @@ addons:
 install:
 - ".travis/install.sh"
 script:
-- "xmllint --schematron .schema/sample.sch task_example*.xml"
+- "xmllint --noout --schematron .schema/sample.sch task_example*.xml"
 - ".travis/publish.sh"
 after_success:
 - ""
